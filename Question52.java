@@ -17,7 +17,7 @@ import java.util.stream.IntStream;
 
 public class Question52 {
 
-	// Not completed
+	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter Number");
@@ -42,3 +42,4 @@ public class Question52 {
 	}
 
 }
+
